@@ -7,7 +7,7 @@ about:
   head: 32ff84a
   archived: false
   latestVersion: v0.12.4
-  collectedAt: 2026-09-04T19:26:48Z
+  collectedAt: 2026-09-04T21:08:53Z
 timeline:
   created: 2020-12-06
   lastCommit: 2025-11-28
@@ -81,6 +81,44 @@ total:
   openIssue: 0
   commit: 138
 ---
+path: /home/runner/.x-repo/github.com/brittonhayes/pillager
+collectedAt: 2026-09-04T21:08:55Z
+loc:
+  Go:
+    code: 2896
+    comments: 255
+    blanks: 508
+    files: 25
+  Yaml:
+    code: 72
+    comments: 0
+    blanks: 13
+    files: 1
+  Toml:
+    code: 18
+    comments: 9
+    blanks: 4
+    files: 1
+  Dockerfile:
+    code: 8
+    comments: 0
+    blanks: 4
+    files: 1
+  Markdown:
+    code: 0
+    comments: 481
+    blanks: 249
+    files: 4
+  Text:
+    code: 0
+    comments: 47
+    blanks: 0
+    files: 5
+total:
+  code: 3176
+  comments: 828
+  blanks: 797
+  files: 37
 ---
 date: "2026-08-24"
 repo:

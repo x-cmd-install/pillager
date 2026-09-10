@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 7271711,
       "digest": "sha256:41db6d1ebf9e4b79fe0e5a37e3831d37036e79b8e0dfc973a06b3bf9ff7d86f5",
-      "download_count": 98,
+      "download_count": 99,
       "created_at": "2025-11-28T23:26:57Z",
       "updated_at": "2025-11-28T23:26:58Z",
       "browser_download_url": "https://github.com/brittonhayes/pillager/releases/download/v0.12.4/pillager_0.12.4_linux_amd64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 7457451,
       "digest": "sha256:0111655f04d63c58beff07d50f9891d06f06df37a667842dfe5a53cdfb118a45",
-      "download_count": 33,
+      "download_count": 34,
       "created_at": "2025-11-28T23:26:57Z",
       "updated_at": "2025-11-28T23:26:58Z",
       "browser_download_url": "https://github.com/brittonhayes/pillager/releases/download/v0.12.4/pillager_0.12.4_windows_amd64.tar.gz"

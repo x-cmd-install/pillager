@@ -22,7 +22,17 @@ x install pillager
 - **Latest**: `v0.12.4` (2025-11-28)
 - **Last commit**: 2025-11-28
 - **Assets in release**: 6
-- **Published**: 2025-11-28T23:26:59Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [checksums.txt](https://github.com/brittonhayes/pillager/releases/download/v0.12.4/checksums.txt) | 509 B | `other` |
+| [pillager_0.12.4_darwin_amd64.tar.gz](https://github.com/brittonhayes/pillager/releases/download/v0.12.4/pillager_0.12.4_darwin_amd64.tar.gz) | 7.2 MiB | `native/darwin/x64` |
+| [pillager_0.12.4_darwin_arm64.tar.gz](https://github.com/brittonhayes/pillager/releases/download/v0.12.4/pillager_0.12.4_darwin_arm64.tar.gz) | 7.0 MiB | `native/darwin/arm64` |
+| [pillager_0.12.4_linux_amd64.tar.gz](https://github.com/brittonhayes/pillager/releases/download/v0.12.4/pillager_0.12.4_linux_amd64.tar.gz) | 6.9 MiB | `native/linux/x64` |
+| [pillager_0.12.4_linux_arm64.tar.gz](https://github.com/brittonhayes/pillager/releases/download/v0.12.4/pillager_0.12.4_linux_arm64.tar.gz) | 6.3 MiB | `native/linux/arm64` |
+| [pillager_0.12.4_windows_amd64.tar.gz](https://github.com/brittonhayes/pillager/releases/download/v0.12.4/pillager_0.12.4_windows_amd64.tar.gz) | 7.1 MiB | `native/win/x64` |
 
 ## Popularity
 
@@ -67,8 +77,8 @@ Lowest-scoring checks:
 Install metadata for pillager lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `pillager` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/pillager.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/pillager.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:25:15Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:16:28Z._

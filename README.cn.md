@@ -4,7 +4,7 @@
 
 Pillage filesystems for sensitive information with Go 🔍
 
-![pillager](https://repo.x-cmd.io/pillager.svg)
+![pillager](https://repo.x-cmd.io/pillager.svg?lang=zh)
 
 ## 安装
 
@@ -22,7 +22,17 @@ x install pillager
 - **最新版本**: `v0.12.4` (2025-11-28)
 - **最近提交**: 2025-11-28
 - **Release 含资产**: 6 个
-- **发布时间**: 2025-11-28T23:26:59Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [checksums.txt](https://github.com/brittonhayes/pillager/releases/download/v0.12.4/checksums.txt) | 509 B | `other` |
+| [pillager_0.12.4_darwin_amd64.tar.gz](https://github.com/brittonhayes/pillager/releases/download/v0.12.4/pillager_0.12.4_darwin_amd64.tar.gz) | 7.2 MiB | `native/darwin/x64` |
+| [pillager_0.12.4_darwin_arm64.tar.gz](https://github.com/brittonhayes/pillager/releases/download/v0.12.4/pillager_0.12.4_darwin_arm64.tar.gz) | 7.0 MiB | `native/darwin/arm64` |
+| [pillager_0.12.4_linux_amd64.tar.gz](https://github.com/brittonhayes/pillager/releases/download/v0.12.4/pillager_0.12.4_linux_amd64.tar.gz) | 6.9 MiB | `native/linux/x64` |
+| [pillager_0.12.4_linux_arm64.tar.gz](https://github.com/brittonhayes/pillager/releases/download/v0.12.4/pillager_0.12.4_linux_arm64.tar.gz) | 6.3 MiB | `native/linux/arm64` |
+| [pillager_0.12.4_windows_amd64.tar.gz](https://github.com/brittonhayes/pillager/releases/download/v0.12.4/pillager_0.12.4_windows_amd64.tar.gz) | 7.1 MiB | `native/win/x64` |
 
 ## 流行度
 
@@ -71,4 +81,4 @@ pillager 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:25:16Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:16:29Z._

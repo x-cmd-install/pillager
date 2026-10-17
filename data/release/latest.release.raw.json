@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 7319402,
       "digest": "sha256:f181b773bb54405cf4b7c9c8970713b285a1aea614fa4bc8dc617023bc4d4cab",
-      "download_count": 68,
+      "download_count": 69,
       "created_at": "2025-11-28T23:26:57Z",
       "updated_at": "2025-11-28T23:26:58Z",
       "browser_download_url": "https://github.com/brittonhayes/pillager/releases/download/v0.12.4/pillager_0.12.4_darwin_arm64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 7271711,
       "digest": "sha256:41db6d1ebf9e4b79fe0e5a37e3831d37036e79b8e0dfc973a06b3bf9ff7d86f5",
-      "download_count": 140,
+      "download_count": 141,
       "created_at": "2025-11-28T23:26:57Z",
       "updated_at": "2025-11-28T23:26:58Z",
       "browser_download_url": "https://github.com/brittonhayes/pillager/releases/download/v0.12.4/pillager_0.12.4_linux_amd64.tar.gz"
